@@ -1,120 +1,55 @@
-2026-10-18 21:17:04 INFO Generated number #1: 0
-2026-10-18 21:17:04 INFO Generated number #1: 2
-2026-10-18 21:17:04 INFO Generated number #1: 0
-2026-10-18 21:17:04 INFO Generated number #1: 0
-2026-10-18 21:17:04 INFO Generated number #1: 4
-2026-10-18 21:17:04 INFO Generated number #1: 1
-2026-10-18 21:17:04 INFO Generated number #1: 4
-2026-10-18 21:17:04 INFO Generated number #1: 1
-2026-10-18 21:17:04 INFO Generated number #1: 2
-2026-10-18 21:17:04 INFO Generated number #1: 0
-2026-10-18 21:17:04 INFO Generated number #1: 4
-2026-10-18 21:17:04 INFO Generated number #1: 1
-2026-10-18 21:17:04 INFO Generated number #1: 3
-2026-10-18 21:17:04 INFO Generated number #1: 2
-2026-10-18 21:17:04 INFO Generated number #1: 2
-2026-10-18 21:17:04 INFO Generated number #1: 2
-2026-10-18 21:17:04 INFO Generated number #1: 4
-2026-10-18 21:17:04 INFO Generated number #1: 2
-2026-10-18 21:17:04 INFO Generated number #1: 3
-2026-10-18 21:17:04 INFO Generated number #1: 1
-2026-10-18 21:17:04 INFO Generated number #2: 0
-2026-10-18 21:17:04 INFO Generated number #2: 4
-2026-10-18 21:17:04 INFO Generated number #2: 4
-2026-10-18 21:17:04 INFO Generated number #2: 3
-2026-10-18 21:17:04 INFO Generated number #3: 3
-2026-10-18 21:17:04 INFO Generated number #3: 0
-2026-10-18 21:17:04 INFO Generated number #2: 4
-2026-10-18 21:17:04 INFO Generated number #2: 4
-2026-10-18 21:17:04 INFO Generated number #2: 2
-2026-10-18 21:17:04 INFO Generated number #3: 2
-2026-10-18 21:17:04 INFO Generated number #2: 0
-2026-10-18 21:17:04 INFO Generated number #2: 3
-2026-10-18 21:17:04 INFO Generated number #2: 3
-2026-10-18 21:17:04 INFO Generated number #2: 1
-2026-10-18 21:17:04 INFO Generated number #2: 4
-2026-10-18 21:17:04 INFO Generated number #3: 2
-2026-10-18 21:17:04 INFO Generated number #4: 2
-2026-10-18 21:17:04 INFO Generated number #2: 0
-2026-10-18 21:17:04 INFO Generated number #2: 2
-2026-10-18 21:17:04 INFO Generated number #3: 4
-2026-10-18 21:17:04 INFO Generated number #3: 4
-2026-10-18 21:17:04 INFO Generated number #4: 2
-2026-10-18 21:17:04 INFO Generated number #3: 3
-2026-10-18 21:17:04 INFO Generated number #2: 1
-2026-10-18 21:17:04 INFO Generated number #2: 1
-2026-10-18 21:17:04 INFO Generated number #2: 2
-2026-10-18 21:17:04 INFO Generated number #2: 2
-2026-10-18 21:17:04 INFO Generated number #3: 4
-2026-10-18 21:17:04 INFO Generated number #3: 1
-2026-10-18 21:17:04 INFO Generated number #4: 3
-2026-10-18 21:17:04 INFO Generated number #2: 3
-2026-10-18 21:17:04 INFO Generated number #4: 2
-2026-10-18 21:17:04 INFO Generated number #2: 4
-2026-10-18 21:17:04 INFO Generated number #3: 1
-2026-10-18 21:17:04 INFO Generated number #4: 3
-2026-10-18 21:17:04 INFO Generated number #3: 1
-2026-10-18 21:17:04 INFO Generated number #3: 2
-2026-10-18 21:17:04 INFO Generated number #4: 0
-2026-10-18 21:17:04 INFO Generated number #4: 1
-2026-10-18 21:17:04 INFO Generated number #5: 1
-2026-10-18 21:17:04 INFO Generated number #3: 2
-2026-10-18 21:17:04 INFO Generated number #3: 3
-2026-10-18 21:17:04 INFO Generated number #4: 1
-2026-10-18 21:17:04 INFO Generated number #4: 2
-2026-10-18 21:17:04 INFO Generated number #3: 1
-2026-10-18 21:17:04 INFO Generated number #5: 0
-2026-10-18 21:17:04 INFO Generated number #5: 4
-2026-10-18 21:17:04 INFO Generated number #5: 0
-2026-10-18 21:17:04 INFO Generated number #4: 3
-2026-10-18 21:17:04 INFO Generated number #5: 2
-2026-10-18 21:17:04 INFO Generated number #4: 2
-2026-10-18 21:17:04 INFO Generated number #4: 3
-2026-10-18 21:17:04 INFO Generated number #5: 0
-2026-10-18 21:17:04 INFO Generated number #4: 1
-2026-10-18 21:17:04 INFO Result: 0.1666666666666666
-2026-10-18 21:17:04 INFO Generated number #3: 0
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 INFO Generated number #3: 2
-2026-10-18 21:17:04 INFO Generated number #4: 1
-2026-10-18 21:17:04 INFO Generated number #3: 0
-2026-10-18 21:17:04 INFO Result: 0
-2026-10-18 21:17:04 INFO Generated number #5: 3
-2026-10-18 21:17:04 INFO Generated number #5: 2
-2026-10-18 21:17:04 INFO Generated number #5: 1
-2026-10-18 21:17:04 INFO Generated number #5: 0
-2026-10-18 21:17:04 INFO Generated number #3: 0
-2026-10-18 21:17:04 INFO Generated number #3: 1
-2026-10-18 21:17:04 INFO Generated number #5: 1
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 INFO Generated number #4: 0
-2026-10-18 21:17:04 INFO Generated number #5: 4
-2026-10-18 21:17:04 INFO Generated number #4: 4
-2026-10-18 21:17:04 INFO Generated number #5: 4
-2026-10-18 21:17:04 INFO Generated number #4: 3
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 INFO Generated number #5: 4
-2026-10-18 21:17:04 INFO Result: 0
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 INFO Generated number #4: 4
-2026-10-18 21:17:04 INFO Generated number #5: 1
-2026-10-18 21:17:04 INFO Generated number #5: 0
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 INFO Generated number #4: 3
-2026-10-18 21:17:04 INFO Generated number #4: 0
-2026-10-18 21:17:04 ERROR Chain divide failed: Division undefined
-2026-10-18 21:17:04 INFO Result: 0.04166666666666668
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 INFO Result: 0.01041666666666667
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 INFO Result: 0
-2026-10-18 21:17:04 INFO Generated number #5: 0
-2026-10-18 21:17:04 INFO Generated number #5: 1
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 INFO Generated number #5: 4
-2026-10-18 21:17:04 INFO Generated number #5: 3
-2026-10-18 21:17:04 INFO Result: 0.009259259259259258
-2026-10-18 21:17:04 ERROR Chain divide failed: Division by zero
-2026-10-18 21:17:04 INFO Result: 0.2222222222222222
+2026-10-18 21:24:56 INFO Loaded numbers: [30, 3]
+2026-10-18 21:24:56 INFO Loaded numbers: [40, 0]
+2026-10-18 21:24:56 INFO Loaded numbers: [64, 4, 4]
+2026-10-18 21:24:56 INFO Loaded numbers: [100, 5, 0, 2]
+2026-10-18 21:24:56 INFO Loaded numbers: [100, 5, 0, 2]
+2026-10-18 21:24:56 INFO Loaded numbers: [81, 9]
+2026-10-18 21:24:56 INFO Loaded numbers: [90, 3, 5]
+2026-10-18 21:24:56 INFO Loaded numbers: [50, 5, 2]
+2026-10-18 21:24:56 INFO Loaded numbers: [45, 3, 0]
+2026-10-18 21:24:56 INFO Loaded numbers: [40, 0]
+2026-10-18 21:24:56 INFO Loaded numbers: [12, 3, 2]
+2026-10-18 21:24:56 INFO Loaded numbers: [64, 4, 4]
+2026-10-18 21:24:56 INFO Loaded numbers: [72, 4, 3]
+2026-10-18 21:24:56 INFO Loaded numbers: [7, 2]
+2026-10-18 21:24:56 INFO Loaded numbers: [90, 3, 5]
+2026-10-18 21:24:56 INFO Loaded numbers: [50, 5, 2]
+2026-10-18 21:24:56 INFO Loaded numbers: [81, 9]
+2026-10-18 21:24:56 INFO Loaded numbers: [16, 2, 2, 2]
+2026-10-18 21:24:56 INFO Loaded numbers: [72, 4, 3]
+2026-10-18 21:24:56 INFO Loaded numbers: [12, 3, 2]
+2026-10-18 21:24:56 INFO Looking up label for 6
+2026-10-18 21:24:56 INFO Looking up label for 2
+2026-10-18 21:24:56 ERROR Chain divide failed: / by zero
+2026-10-18 21:24:56 INFO Looking up label for 2
+2026-10-18 21:24:56 INFO Looking up label for 6
+2026-10-18 21:24:56 INFO Looking up label for 9
+2026-10-18 21:24:56 ERROR Chain divide failed: / by zero
+2026-10-18 21:24:56 INFO Looking up label for 2
+2026-10-18 21:24:56 INFO Looking up label for 5
+2026-10-18 21:24:56 INFO Looking up label for 6
+2026-10-18 21:24:56 INFO Label: HUGE
+2026-10-18 21:24:56 ERROR Chain divide failed: Cannot invoke "String.toUpperCase()" because "<local4>" is null
+2026-10-18 21:24:56 INFO Looking up label for 9
+2026-10-18 21:24:56 ERROR Chain divide failed: Cannot invoke "String.toUpperCase()" because "<local4>" is null
+2026-10-18 21:24:56 INFO Looking up label for 4
+2026-10-18 21:24:56 INFO Looking up label for 6
+2026-10-18 21:24:56 INFO Looking up label for 4
+2026-10-18 21:24:56 ERROR Chain divide failed: / by zero
+2026-10-18 21:24:56 INFO Looking up label for 10
+2026-10-18 21:24:56 ERROR Chain divide failed: Cannot invoke "String.toUpperCase()" because "<local4>" is null
+2026-10-18 21:24:56 ERROR Chain divide failed: / by zero
+2026-10-18 21:24:56 INFO Looking up label for 3
+2026-10-18 21:24:56 ERROR Chain divide failed: / by zero
+2026-10-18 21:24:56 INFO Label: MEDIUM
+2026-10-18 21:24:56 INFO Label: SMALL
+2026-10-18 21:24:56 INFO Looking up label for 5
+2026-10-18 21:24:56 ERROR Chain divide failed: Cannot invoke "String.toUpperCase()" because "<local4>" is null
+2026-10-18 21:24:56 ERROR Chain divide failed: Cannot invoke "String.toUpperCase()" because "<local4>" is null
+2026-10-18 21:24:56 ERROR Chain divide failed: Cannot invoke "String.toUpperCase()" because "<local4>" is null
+2026-10-18 21:24:56 INFO Label: SMALL
+2026-10-18 21:24:56 INFO Label: LARGE
+2026-10-18 21:24:56 INFO Label: SMALL
+2026-10-18 21:24:56 INFO Label: LARGE
+2026-10-18 21:24:56 INFO Label: HUGE
+2026-10-18 21:24:56 INFO Label: ENORMOUS

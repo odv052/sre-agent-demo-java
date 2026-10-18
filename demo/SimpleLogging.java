@@ -25,7 +25,7 @@ void main(String[] args) throws IOException {
     IO.println("%d runs, %d failed -> %s".formatted(runs, failed, LOG_FILE));
 }
 
-/// `2026-10-18 17:18:54 INFO Generated number #1: 3`
+/// `2026-10-18 17:18:54 INFO Loaded numbers: [100, 5, 0, 2]`
 static final class TextLog implements Log {
 
     private static final DateTimeFormatter TIMESTAMP = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
